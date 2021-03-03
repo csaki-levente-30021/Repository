@@ -32,5 +32,8 @@ public class School {
 
         School s3 = new School("Tom", 21, "Utb", "Brasov");
         s3.displaySchool();
+
+        School s4 = new School("Joseph", 25, "Umft", "Timisoara");
+        s4.displaySchool();
     }
 }
